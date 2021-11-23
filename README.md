@@ -1,4 +1,4 @@
-# Agribot - An AI Chatbot for Agriculture Sector
+#  An AI Chatbot for Agriculture Sector
 
 ### About the project
 
@@ -26,31 +26,3 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 
 ### Primary Language used : **Python**
 
-### How to use our Chatbot
-* Follow the steps mentioned in this [file](https://github.com/pskarthick15/Agribot-An-AI-chatbot-for-agricuture/blob/master/connect-this-repo.md) to clone this repository and use our **CHATBOT**
-
-### Screenshots of prototype in RASA X server
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/images/rasax1.png">
-<img src="https://github.com/kuluruvineeth/Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector/blob/master/images/rasax2.png">
-
-## Screenshots of prototype in Telegram
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/images/tel-1.png" width="400" height="400">
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/images/tel-2.png" width="400" height="400">
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/images/tel-3.png" width="400" height="400">
-
-### Live Demo
-**Crop Price Path Demo**
-
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/demo_gifs/crop_price.gif" width="500" height="500">
-
-**Fertilizers Information Path Demo**
-
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/demo_gifs/ferti_info.gif" width="500" height="500">
-
-**Fertilizers Recommendation Path Demo**
-
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/demo_gifs/ferti_recommend.gif" width="500" height="500">
-
-**Crop Recommendation Path Demo**
-
-<img src="https://github.com/kuluruvineeth/Agrosahakar/blob/master/demo_gifs/crop_recommend.gif" width="500" height="500">
